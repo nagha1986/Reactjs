@@ -1,0 +1,38 @@
+.firstNM{
+    margin: 10px;
+    padding: 10px;
+}
+.lastNM{
+     margin: 10px;
+     padding: 10px;
+}
+.hobbiesCT{
+     margin: 10px;
+     padding: 10px;
+}
+.footer{
+     margin: 10px;
+     padding: 10px;
+
+}
+.loading{
+     margin: 10px;
+     padding: 10px;
+}
+.errorMessage{
+     margin: 10px;
+     padding: 10px;  
+}
+.hobbies{
+    margin-left: 16px;
+}
+.errorLabel{
+    color: red;
+}
+.submitValue{
+     margin: 10px;
+     padding: 10px;  
+}
+.formvalues{
+    margin-left: 16px;
+}
